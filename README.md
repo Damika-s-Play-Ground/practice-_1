@@ -1,3 +1,3 @@
-This is my second git repository
+## This is my second git repository
 
 We set master to track origin/master
